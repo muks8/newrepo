@@ -6,6 +6,10 @@ rg_name = {
     rg3={
         name= "mukrg3"
         location="central india"
+    },
+    rg4={
+        name= "mukrg4"
+        location="central india"
     }
     
 }

@@ -8,8 +8,8 @@ rg_name = {
         location="central india"
     },
     rg4={
-        name= "mukrg4"
-        location="central india"
+        name= "dhanjaya"
+        location="west europe"
     }
     
 }

@@ -3,8 +3,8 @@ rg_name = {
         name= "mukrg"
         location="central india"
     },
-    rg2={
-        name= "mukrg2"
+    rg3={
+        name= "mukrg3"
         location="central india"
     }
 }
